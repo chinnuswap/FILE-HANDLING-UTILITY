@@ -13,3 +13,7 @@ DURATION:4 WEEKS
 MENTOR:NEELA SANTHOSH
 
 I used tools like "vs code" to complete my task succesfully.i take help from different flatforms like google,youtube and chatgpt like guide to complete my task. 
+
+output
+
+https://github.com/chinnuswap/FILE-HANDLING-UTILITY/issues/1#issue-4451562522
