@@ -14,6 +14,13 @@ MENTOR:NEELA SANTHOSH
 
 I used tools like "vs code" to complete my task succesfully.i take help from different flatforms like google,youtube and chatgpt like guide to complete my task. 
 
-output
+output:1
 
 https://github.com/chinnuswap/FILE-HANDLING-UTILITY/issues/1#issue-4451562522
+
+output:2
+
+
+
+output:3
+
